@@ -1,0 +1,11 @@
+2022-08-28T20:26:54.7171298 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-08-28T20:27:45.1883578 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-08-28T20:48:52.7918099 404 : [{"timestamp":"2022-08-29T00:48:52.744+00:00","status":404,"error":"Not Found","message":"No message available","path":"/1001"}]
+2022-08-28T20:54:02.9506977 404 : [{"timestamp":"2022-08-29T00:54:02.903+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accountId/1001"}]
+2022-08-28T21:01:44.400756 404 : [{"timestamp":"2022-08-29T01:01:44.353+00:00","status":404,"error":"Not Found","message":"Account not found.","path":"/account/1001"}]
+2022-08-28T21:07:40.6402057 404 : [{"timestamp":"2022-08-29T01:07:40.562+00:00","status":404,"error":"Not Found","message":"Account not found.","path":"/account/1001"}]
+2022-08-28T21:13:06.9768095 404 : [{"timestamp":"2022-08-29T01:13:06.914+00:00","status":404,"error":"Not Found","message":"Account not found.","path":"/account/1001"}]
+2022-08-28T21:14:59.0074522 404 : [{"timestamp":"2022-08-29T01:14:58.913+00:00","status":404,"error":"Not Found","message":"Account not found.","path":"/account/1001"}]
+2022-08-28T21:20:09.8842658 404 : [{"timestamp":"2022-08-29T01:20:09.821+00:00","status":404,"error":"Not Found","message":"No message available","path":"/1001"}]
+2022-08-28T21:21:33.1127635 401 : [no body]
+2022-08-28T21:21:41.3736323 404 : [{"timestamp":"2022-08-29T01:21:41.373+00:00","status":404,"error":"Not Found","message":"No message available","path":"/1001"}]
